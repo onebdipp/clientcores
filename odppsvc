@@ -1,0 +1,4 @@
+#!/bin/bash
+cd $HOMEBREW_CELLAR
+cd odppsvc/1.0/bin
+java -jar odppsvc.jar
